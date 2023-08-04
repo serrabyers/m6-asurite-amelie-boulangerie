@@ -11,9 +11,9 @@ header,footer{
     margin: 0px auto;
 }
 header{
-    height: 150px;
-    background-image: url("/images/bowl.jpg") no-repeat;
-    background-color: #141a1a;
+        height: 150px;
+        background: url(images/bowl.jpg) no-repeat center right;
+        background-color:#141a1a;
 
 }
 h1{
